@@ -1,0 +1,10 @@
+{
+  "home" : {
+    "basename" : "home",
+    "content" : "./src/index.html"
+  },
+  "about": {
+    "basename" : "about",
+    "content" : "./src/about.html"
+  }
+}

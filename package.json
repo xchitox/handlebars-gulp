@@ -1,5 +1,5 @@
 {
-  "name": "handlebars",
+  "name": "chito-handlebars-test",
   "version": "1.0.0",
   "description": "handlebars with gulp",
   "main": "index.js",
@@ -14,11 +14,18 @@
   "author": "Chito Cheng",
   "license": "ISC",
   "devDependencies": {
+    "async": "^2.0.0-rc.3",
+    "bluebird": "^3.3.5",
     "browser-sync": "^2.12.5",
     "gulp": "^3.9.1",
     "gulp-compile-handlebars": "^0.6.1",
+    "gulp-flatmap": "^1.0.0",
     "gulp-rename": "^1.2.2",
     "gulp-watch": "^4.3.5",
-    "sass": "^0.5.0"
+    "handlebars": "^4.0.5",
+    "merge-stream": "^1.0.0",
+    "path": "^0.12.7",
+    "sass": "^0.5.0",
+    "through2": "^2.0.1"
   }
 }
